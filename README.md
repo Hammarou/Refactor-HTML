@@ -6,7 +6,7 @@ Description:
 
 Greetings! 
 
--The purpose of theis week's challenge is to make the website more accessible and user friendly to individuals with visual imapairments.
+-The purpose of theis week's challenge is to make the webpage more accessible and user friendly to individuals with visual imapairments.
 
 -I have added a alt attribute to the image element with a brief descripton of the image. This is to provide alternative information to the user, incase the image cannot be displayed or the user is utilizing a screen reader.
 
@@ -22,7 +22,12 @@ Code Source:
 
 ## Usage
 
-To view and inspect my modifications, please access the online file locatied in the Github.com.
+-The deployed webpage can be accessed at following URL:
+
+http://127.0.0.1:5500/index.html
+
+
+-To view and inspect my modifications, please access the online file locatied in the Github.com.
 
 https://github.com/Hammarou/Week1_Challenge
 
