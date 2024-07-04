@@ -29,7 +29,7 @@ http://127.0.0.1:5500/index.html
 
 -To view and inspect my modifications, please access the online file locatied in the Github.com.
 
-https://github.com/Hammarou/Week1_Challenge
+https://github.com/Hammarou/Symantic-HTML
 
 
 ## Credits
