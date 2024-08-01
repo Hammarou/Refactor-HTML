@@ -24,7 +24,7 @@ Code Source:
 
 -The deployed webpage can be accessed at following URL:
 
-http://127.0.0.1:5500/index.html
+https://hammarou.github.io/Refactor-HTML
 
 
 -To view and inspect my modifications, please access the online file locatied in Github.com.
