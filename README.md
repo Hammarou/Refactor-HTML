@@ -24,12 +24,12 @@ Code Source:
 
 -The deployed webpage can be accessed at following URL:
 
-https://hammarou.github.io/Refactor-HTML
+https://hammarou.github.io/Refactor-HTML/
 
 
 -To view and inspect my modifications, please access the online file locatied in Github.com.
 
-https://github.com/Hammarou/Refactor-HTML
+https://github.com/Hammarou/Refactor-HTML/
 
 
 ## Credits
