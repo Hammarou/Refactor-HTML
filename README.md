@@ -8,7 +8,7 @@ Greetings!
 
 -The purpose of theis week's challenge is to make the webpage more accessible and user friendly to individuals with visual imapairments.
 
--I have added a alt attribute to the image element with a brief descripton of the image. This is to provide alternative information to the user, incase the image cannot be displayed or the user is utilizing a screen reader.
+-I have added an alt attribute to the image element with a brief descripton of the image. This done in order to provide an alternative means of information to the user (incase the image cannot be displayed), and allow the user to utilize a screen reader.
 
 -I have also been tasked with refractoring already existant code for the purpose of making it easier to understand for furture developers who may wish to view and/or modify it
 
