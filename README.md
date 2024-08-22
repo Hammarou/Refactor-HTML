@@ -1,6 +1,5 @@
-# Week1_Challenge
+## Horizon Website
 
-# Horizon Website
 
 Description:
 
