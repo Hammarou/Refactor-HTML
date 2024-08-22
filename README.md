@@ -1,7 +1,6 @@
-## Horizon Website
+## Refactor Website (Horizon) HTML
 
-
-Description:
+# Description
 
 Greetings! 
 
