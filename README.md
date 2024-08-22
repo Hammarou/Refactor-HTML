@@ -1,6 +1,6 @@
-## Refactor Website (Horizon) HTML
+# Refactor Website (Horizon) HTML
 
-# Description
+## Description
 
 Greetings! 
 
